@@ -17,8 +17,10 @@
     font-family: museo700;
     src: url(../fonts/MuseoSans_700.otf) format("truetype");
 }
+/* 
+@import url('http://fonts.cdnfonts.com/css/rawline'); */
 
 @font-face {
     font-family: Rawline;
-    src: url("../fonts/rawline-600.woff") format("truetype");
+    src: url("../fonts/rawline-600.ttf") format("truetype");
 }
